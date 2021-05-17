@@ -1,0 +1,30 @@
+[
+  {
+    "taskname": "task 1:",
+    "task": "finish redux tutorial"
+  },
+  {
+    "taskname": "task 2:",
+    "task": "Learn more about Relay"
+  },
+  {
+    "taskname": "task 3:",
+    "task": "Build 5 more React apps"
+  },
+  {
+    "taskname": "task 4:",
+    "task": "Review React Component Lifecycle"
+  },
+  {
+    "taskname": "task 5:",
+    "task": "Obtain Data Visualization Certificate"
+  },
+  {
+    "taskname": "task 6:",
+    "task": "Review Algorithms"
+  },
+  {
+    "taskname": "task 7:",
+    "task": "Tweet Progress"
+  }
+]
