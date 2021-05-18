@@ -5,9 +5,30 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #282c34;
+
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.card2{
+  background-color: #FF4E4F!important;
+}
+
+.bloc{
+  background-color: #404146;
+
+}
+
+.input{
+  background: #282c34;
+  color: #fff;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
 }

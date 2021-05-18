@@ -1,29 +1,36 @@
 [
   {
+    "id": 1,
     "taskname": "task 1:",
     "task": "finish redux tutorial"
   },
   {
+    "id": 2,
     "taskname": "task 2:",
     "task": "Learn more about Relay"
   },
   {
+    "id": 3,
     "taskname": "task 3:",
     "task": "Build 5 more React apps"
   },
   {
+    "id": 4,
     "taskname": "task 4:",
     "task": "Review React Component Lifecycle"
   },
   {
+    "id": 5,
     "taskname": "task 5:",
     "task": "Obtain Data Visualization Certificate"
   },
   {
+    "id": 6,
     "taskname": "task 6:",
     "task": "Review Algorithms"
   },
   {
+    "id": 7,
     "taskname": "task 7:",
     "task": "Tweet Progress"
   }
